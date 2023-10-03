@@ -2,7 +2,7 @@
 
 Ovaj repozitorijum posvećen je priručniku za Projektnu nastavu za sedmi razred osnovne škole IKT . 
 
-Kurs je na Petljom portalu dotupan ovde: [https://petlja.org/biblioteka/r/kursevi/vii_projektnizadatak](https://petlja.org/biblioteka/r/kursevi/vii_projektnizadatak)
+Kurs je na Petljinom portalu dotupan ovde: [https://petlja.org/biblioteka/r/kursevi/vii_projektnizadatak](https://petlja.org/biblioteka/r/kursevi/vii_projektnizadatak)
 
 
 ## Konverzija u *HTML*
